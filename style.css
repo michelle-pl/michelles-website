@@ -1,0 +1,19 @@
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+.button {
+  color: white;
+  background-color: purple;
+  width: 170px;
+}
+
+body {
+  background-color: lightblue;
+}
+
+li {
+  color:darkgreen
+  border-style: groove;
+}
